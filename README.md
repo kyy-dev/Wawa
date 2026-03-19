@@ -11,7 +11,7 @@
 
   <hr>
 
-  <h3>🛠️ PANDUAN INSTALASI CEPAT (COK)</h3>
+  <h3>🛠️ PANDUAN INSTALASI CEPAT</h3>
   <p>Salin dan jalankan perintah di bawah ini satu per satu di Termux kamu:</p>
 
 </div>
