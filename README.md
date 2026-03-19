@@ -14,8 +14,6 @@
   <h3>🛠️ PANDUAN INSTALASI CEPAT</h3>
   <p>Salin dan jalankan perintah di bawah ini satu per satu di Termux kamu:</p>
 
-</div>
-
 <h4>1️⃣ STEP 1: Persiapan Bahan</h4>
 
 ```bash
@@ -78,4 +76,3 @@ node index.js
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GITHUB-FOLLOW-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="Follow GitHub">
 </a>
 <p><i>"Koding itu simpel, yang susah itu nemu error tapi kaga tau di mana."</i></p>
-</div>
